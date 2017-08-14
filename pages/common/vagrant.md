@@ -21,3 +21,7 @@
 - Connect to machine via SSH:
 
 `vagrant ssh`
+
+- Shutdown the machine:
+
+`vagrant down`
